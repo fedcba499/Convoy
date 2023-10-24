@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ar.convoy"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ar.convoy"
